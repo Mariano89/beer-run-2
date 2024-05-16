@@ -12,6 +12,8 @@ Loading images via JavaScript module `import` is also supported, although not re
 
 [Node.js](https://nodejs.org) is required to install dependencies and run scripts via `npm`.
 
+node version: 18.17.0
+
 ## Available Commands
 
 | Command | Description |
